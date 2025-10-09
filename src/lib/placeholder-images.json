@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-1",
+      "description": "A placeholder for a user's profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3J0cmFpdHxlbnwwfHx8fDE3NTk3MjU5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait"
+    },
+    {
+      "id": "profile-2",
+      "description": "A placeholder for a user's profile picture.",
+      "imageUrl": "https://images.unsplash.com/photo-1552058544-f2b08422138a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29ufGVufDB8fHx8MTc1OTcwNzc1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person"
+    },
+    {
+      "id": "profile-3",
+      "description": "A placeholder for a user's profile picture.",
+      "imageUrl": "https://picsum.photos/seed/103/200/200",
+      "imageHint": "face"
+    },
+    {
+      "id": "profile-4",
+      "description": "A placeholder for a user's profile picture.",
+      "imageUrl": "https://picsum.photos/seed/104/200/200",
+      "imageHint": "woman"
+    },
+    {
+      "id": "resource-1",
+      "description": "Placeholder image for a mental health resource.",
+      "imageUrl": "https://picsum.photos/seed/201/600/400",
+      "imageHint": "books abstract"
+    },
+    {
+      "id": "resource-2",
+      "description": "Placeholder image for an event.",
+      "imageUrl": "https://picsum.photos/seed/202/600/400",
+      "imageHint": "event abstract"
+    },
+    {
+      "id": "resource-3",
+      "description": "Placeholder image for a help material.",
+      "imageUrl": "https://picsum.photos/seed/203/600/400",
+      "imageHint": "study abstract"
+    },
+    {
+      "id": "library-1",
+      "description": "Placeholder image for a library book.",
+      "imageUrl": "https://picsum.photos/seed/301/600/400",
+      "imageHint": "book open"
+    },
+    {
+      "id": "library-2",
+      "description": "Placeholder image for a library article.",
+      "imageUrl": "https://picsum.photos/seed/302/600/400",
+      "imageHint": "journal abstract"
+    },
+    {
+      "id": "library-3",
+      "description": "Placeholder image for another library item.",
+      "imageUrl": "https://picsum.photos/seed/303/600/400",
+      "imageHint": "reading abstract"
+    }
+  ]
+}
